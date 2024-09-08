@@ -1,20 +1,20 @@
-Private Jet (Gulfstream G650): $65,000,000
-Luxury Yacht (Sunseeker 131): $25,000,000
-Rolls-Royce Phantom: $450,000
-Patek Philippe Grand Complications Watch: $1,000,000
-Aston Martin Valkyrie: $3,000,000
-Chanel Diamond Forever Classic Bag: $261,000
-Lamborghini Aventador SVJ: $600,000
-Bugatti Chiron: $3,500,000
-Louis Vuitton Steamer Trunk: $170,000
-Hermès Birkin Bag: $150,000
-Luxury Safari Experience in Africa: $85,000
-Baccarat Zenith Chandelier: $280,000
-Steinway & Sons Custom Grand Piano: $2,000,000
-Gold-Plated iPhone 14 Pro: $20,000
-Luxury Island Retreat (Private Island in the Caribbean): $35,000,000
-Bugatti Veyron Mansory Vivere Edition: $3,400,000
-Montblanc Meisterstück Solitaire Pen: $1,500
-Van Cleef & Arpels Alhambra Necklace: $35,000
-Royal Penthouse Suite, Hotel President Wilson, Geneva (per night): $80,000
+Private Jet (Gulfstream G650): $65,000,000  
+Luxury Yacht (Sunseeker 131): $25,000,000  
+Rolls-Royce Phantom: $450,000  
+Patek Philippe Grand Complications Watch: $1,000,000  
+Aston Martin Valkyrie: $3,000,000  
+Chanel Diamond Forever Classic Bag: $261,000  
+Lamborghini Aventador SVJ: $600,000  
+Bugatti Chiron: $3,500,000  
+Louis Vuitton Steamer Trunk: $170,000  
+Hermès Birkin Bag: $150,000  
+Luxury Safari Experience in Africa: $85,000  
+Baccarat Zenith Chandelier: $280,000  
+Steinway & Sons Custom Grand Piano: $2,000,000  
+Gold-Plated iPhone 14 Pro: $20,000  
+Private Island in the Caribbean: $35,000,000  
+Bugatti Veyron Mansory Vivere Edition: $3,400,000  
+Montblanc Meisterstück Solitaire Pen: $1,500  
+Van Cleef & Arpels Alhambra Necklace: $35,000  
+Royal Penthouse Suite (per night): $80,000  
 Graff Diamonds Hallucination Watch: $55,000,000
