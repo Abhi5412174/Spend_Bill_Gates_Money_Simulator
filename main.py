@@ -1,5 +1,6 @@
 # spend bill gates money
 from  submain import display_bill_gate_money, for_choice_2
+from operations import net_worth_calculations
 
 def main():
     '''

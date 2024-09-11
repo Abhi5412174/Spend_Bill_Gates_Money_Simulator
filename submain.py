@@ -34,8 +34,6 @@ def display_available_products():
     except FileNotFoundError:
         print(f"\nThe file 'products.txt' does not exist.")
 
-
-
 def for_choice_2():
     # Function to handle option 2 and display the available products
     display_available_products()
